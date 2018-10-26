@@ -1,11 +1,9 @@
 {
   "items": [
     {
-      "id": 1,
       "title": "Setup fake Online REST server"
     },
     {
-      "id": 2,
       "title": "Bake cake"
     }
 
